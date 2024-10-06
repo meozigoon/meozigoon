@@ -27,9 +27,11 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">🔗 Contact 🔗</h3>
 <div align="center">
   <a href="https://www.acmicpc.net/user/meozigoon">
     <img src="https://img.shields.io/badge/Baekjoon-428bca?style=for-the-badge&logo=&logoColor=white" />&nbsp
   </a>
 </div>
+
+<br>
