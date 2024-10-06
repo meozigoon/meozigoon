@@ -34,6 +34,6 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Baakjoon-428bca?style=for-the-badge&logo=&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Baekjoon-428bca?style=for-the-badge&logo=&logoColor=white" />&nbsp
   </a>
 </div>
