@@ -6,8 +6,8 @@
 <!--내용 부분-->
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=#00599C" />&nbsp
     <img src="https://img.shields.io/badge/Algorithms-428bca.svg?style=for-the-badge&logo=&logoColor=#00599C" />&nbsp
+    <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=#00599C" />&nbsp
 </div>
 
 <br>
@@ -29,7 +29,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
+  <a href="https://www.acmicpc.net/user/meozigoon">
     <img src="https://img.shields.io/badge/Baekjoon-428bca?style=for-the-badge&logo=&logoColor=white" />&nbsp
   </a>
 </div>
