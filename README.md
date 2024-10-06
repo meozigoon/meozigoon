@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--내용 부분-->
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/C++-007ACC.svg?style=for-the-badge&logo=CPP&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C++-007ACC.svg?style=for-the-badge&logo=CSS&logoColor=white" />&nbsp
 </div>
 
 <br>
