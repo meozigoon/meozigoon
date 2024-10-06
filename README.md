@@ -14,6 +14,15 @@
 
 <br>
 
+<h3 align="center">🔗 Contact 🔗</h3>
+<div align="center">
+  <a href="https://www.acmicpc.net/user/meozigoon">
+    <img src="https://img.shields.io/badge/Baekjoon-428bca?style=for-the-badge&logo=&logoColor=white" />&nbsp
+  </a>
+</div>
+
+<br>
+
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -22,15 +31,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Visual Studio-3B2E58.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
-
-<br>
-
-<h3 align="center">🔗 Contact 🔗</h3>
-<div align="center">
-  <a href="https://www.acmicpc.net/user/meozigoon">
-    <img src="https://img.shields.io/badge/Baekjoon-428bca?style=for-the-badge&logo=&logoColor=white" />&nbsp
-  </a>
 </div>
 
 <br>
