@@ -9,7 +9,7 @@
     <a href="https://stupendous-helenium-279.notion.site/1175e5388e2f8076aeb7f11138b5fb37?v=1175e5388e2f81008fbd000c8a8b4e4b">
         <img src="https://img.shields.io/badge/Algorithms-428bca.svg?style=for-the-badge&logo=&logoColor=#00599C" />&nbsp
     </a>
-    <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=#00599C" />&nbsp
+    <img src="https://skillicons.dev/icons?i=cpp" />&nbsp
 </div>
 
 <br>
