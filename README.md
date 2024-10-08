@@ -1,5 +1,6 @@
-## ✨ Welcome to my Github ✨
+<h1 align="center">✨ Welcome to my Github ✨</h1>
 
+<br>
 <!--
 **meozigoon/meozigoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
