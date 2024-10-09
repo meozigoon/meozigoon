@@ -3,7 +3,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meozigoon)](https://solved.ac/meozigoon/)
 
 # 💪Skills
-### Platforms & Languages
+### Languages
 ![C++](https://img.shields.io/badge/C++-007396.svg?&style=for-the-badge&logo=Cpp&logoColor=white)
 ![C](https://img.shields.io/badge/C-007396.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
