@@ -1,37 +1,21 @@
-<h1 align="center">✨ Welcome to my Github ✨</h1>
+# DH.L ⚜️
 
-<br>
-<!--
-**meozigoon/meozigoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-<!--내용 부분-->
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-    <a href="https://stupendous-helenium-279.notion.site/1175e5388e2f8076aeb7f11138b5fb37?v=1175e5388e2f81008fbd000c8a8b4e4b">
-        <img src="https://img.shields.io/badge/Algorithms-428bca.svg?style=for-the-badge&logo=&logoColor=#00599C" />&nbsp
-    </a>
-    <img src="https://skillicons.dev/icons?i=cpp" />&nbsp
-</div>
+![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meozigoon)](https://solved.ac/meozigoon/)
+# 💪Skills
+### Platforms & Languages
+![Cpp](https://img.shields.io/badge/Cpp-007396.svg?&style=for-the-badge&logo=Cpp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
-<br>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-007ACC.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
-<h3 align="center">🔗 Contact 🔗</h3>
-<div align="center">
-  <a href="https://www.acmicpc.net/user/meozigoon">
-    <img src="https://img.shields.io/badge/Baekjoon-428bca?style=for-the-badge&logo=&logoColor=white" />&nbsp
-  </a>
-</div>
-
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Visual Studio-3B2E58.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
-
-<br>
+ 
+# :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meozigoon@gmail.com)](mailto:meozigoon@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:meozigoon@naver.com)](mailto:meozigoon@naver.com)
