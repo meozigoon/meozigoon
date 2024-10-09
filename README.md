@@ -1,4 +1,4 @@
-# DH.L ⚜️
+# ⚜️ DH.L ⚜️
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
@@ -10,10 +10,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-171515.svg?&style=for-the-badge&logo=Gitub&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-007ACC.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-3B2E58.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-4DBB5F33.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
  
 # :mailbox_with_mail: Contacts
