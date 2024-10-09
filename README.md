@@ -12,8 +12,8 @@
 
 ### Tools
 ![Github](https://img.shields.io/badge/Github-171515.svg?&style=for-the-badge&logo=Gitub&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-3B2E58.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-4DBB5F33.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
  
