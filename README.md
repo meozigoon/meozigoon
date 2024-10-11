@@ -6,15 +6,10 @@
 
 # 💪Skills
 ### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-007396.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-007396.svg?&style=for-the-badge&logo=C&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,py)
 
 ### Tools
-![Github](https://img.shields.io/badge/Github-171515.svg?&style=for-the-badge&logo=Gitub&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-3B2E58.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-4DBB5F33.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=github,visualstudio,vscode,pycharm,arduino)
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meozigoon@gmail.com)](mailto:meozigoon@gmail.com)
