@@ -1,8 +1,8 @@
 # ⚜️ DH.L ⚜️
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meozigoon)](https://solved.ac/meozigoon/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=meozigoon&theme=dark)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=meozigoon&theme=dark)](https://solved.ac/meozigoon/)
 <br>
-![DH.L's GitHub stats](https://github-readme-stats.vercel.app/api?username=meozigoon&show_icons=true&theme=highcontrast)
+[![DH.L's GitHub stats](https://github-readme-stats.vercel.app/api?username=meozigoon&show_icons=true&theme=highcontrast)](https://github.com/meozigoon)
 
 # 💪Skills
 ### Languages
