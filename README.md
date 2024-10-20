@@ -7,7 +7,7 @@
 
 # 💪Skills
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=cpp,c,py)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,py,cs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meozigoon&layout=compact)
 
