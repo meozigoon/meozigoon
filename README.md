@@ -2,7 +2,7 @@
   
 # ⚜️ DH.L ⚜️
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmeozigoon%2FBOJ&count_bg=%2333BBBB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=true)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmeozigoon%2FBOJ&count_bg=%2333BBBB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=true)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meozigoon)](https://solved.ac/meozigoon/)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=meozigoon&theme=dark)](https://solved.ac/meozigoon/)
