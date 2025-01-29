@@ -9,6 +9,14 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meozigoon)](https://solved.ac/meozigoon/)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=meozigoon&theme=dark)](https://solved.ac/meozigoon/)
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=meozigoon&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/meozigoon"
+  width="600"
+  height="200"
+/>
+</a>
+
 # 💪Skills
 ### Languages
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,py)
