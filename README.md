@@ -29,7 +29,6 @@
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meozigoon@gmail.com)](mailto:meozigoon@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:meozigoon@naver.com)](mailto:meozigoon@naver.com)
-[![BOJ Badge](https://img.shields.io/badge/BOJ-007396?style=flat-square&logo=Baekjoon&logoColor=white&link=acmicpc.net/user/meozigoon)](https://www.acmicpc.net/user/meozigoon)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer"/>
 
