@@ -2,7 +2,7 @@
   
 # ⚜️ DH.L ⚜️
 
-**[HOMEPAGE](https://meozigoon.github.io)**
+<strong><a href="https://meozigoon.github.io" target="_blank">HOMEPAGE</a></strong>
 
 [![DH.L's GitHub stats](https://github-readme-stats.vercel.app/api?username=meozigoon&show_icons=true&theme=dark)](https://github.com/meozigoon)
 <br>
