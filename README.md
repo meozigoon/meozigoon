@@ -24,7 +24,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meozigoon&layout=compact&langs_count=100&theme=dark)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,pycharm,arduino)
+![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,firebase,pycharm,arduino)
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:meozigoon@gmail.com)
