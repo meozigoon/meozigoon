@@ -19,7 +19,7 @@
 
 # 💪Skills
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,py,arduino,html,css,js)
+![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,py,arduino,html,css,js,nodejs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meozigoon&layout=compact&langs_count=100&theme=dark)
 
