@@ -5,6 +5,7 @@
 <strong><a href="https://meozigoon.github.io" target="_blank">HOMEPAGE</a></strong>
 
 <strong><a href="https://github.com/Team-ToyoTech" target="_blank">Team ToyoTech</a></strong>
+|
 <strong><a href="https://github.com/2025ESC" target="_blank">HSSH ESC</a></strong>
 
 [![DH.L's GitHub stats](https://github-readme-stats.vercel.app/api?username=meozigoon&show_icons=true&theme=dark)](https://github.com/meozigoon)
