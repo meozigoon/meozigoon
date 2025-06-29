@@ -4,12 +4,9 @@
 
 <strong><a href="https://meozigoon.github.io" target="_blank">HOMEPAGE</a></strong>
 
-</br>
-
-<strong>My Teams</strong>
 | <img src="https://github.com/user-attachments/assets/92e0625e-74b9-4a43-8d62-697433a6326c" width=100 height=100> | <img src="https://github.com/user-attachments/assets/73899e67-ff05-41ff-a665-e7b945351403" width=100 height=100> |
 |:---:|:---:|
-| [Team ToyoTech](https://github.com/Team-ToyoTech) | [HSSH ESC](https://github.com/2025ESC) |
+| <strong><a href="https://github.com/Team-ToyoTech">Team ToyoTech</a></strong> | <strong><a href="https://github.com/2025ESC">HSSH ESC</a></strong> |
 
 </br>
 
