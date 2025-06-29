@@ -4,12 +4,17 @@
 
 <strong><a href="https://meozigoon.github.io" target="_blank">HOMEPAGE</a></strong>
 
-<strong><a href="https://github.com/Team-ToyoTech" target="_blank">Team ToyoTech</a></strong>
-|
-<strong><a href="https://github.com/2025ESC" target="_blank">HSSH ESC</a></strong>
+</br>
+
+<strong>My Teams</strong>
+| <img src="https://github.com/user-attachments/assets/92e0625e-74b9-4a43-8d62-697433a6326c" width=100 height=100> | <img src="https://github.com/user-attachments/assets/73899e67-ff05-41ff-a665-e7b945351403" width=100 height=100> |
+|:---:|:---:|
+| [Team ToyoTech](https://github.com/Team-ToyoTech) | [HSSH ESC](https://github.com/2025ESC) |
+
+</br>
 
 [![DH.L's GitHub stats](https://github-readme-stats.vercel.app/api?username=meozigoon&show_icons=true&theme=dark)](https://github.com/meozigoon)
-<br>
+</br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meozigoon)](https://solved.ac/meozigoon/)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=meozigoon&theme=dark)](https://solved.ac/meozigoon/)
 
