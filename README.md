@@ -5,7 +5,7 @@
 <strong><a href="https://meozigoon.github.io" target="_blank">HOMEPAGE</a></strong>
 
 | <a href="https://github.com/Team-ToyoTech"><img src="https://github.com/user-attachments/assets/92e0625e-74b9-4a43-8d62-697433a6326c" width=100 height=100></a> | <a href="https://github.com/2025ESC"><img src="https://github.com/user-attachments/assets/73899e67-ff05-41ff-a665-e7b945351403" width=100 height=100></a> |
-|:---:|:---:|
+|:-:|:-:|
 | <strong><a href="https://github.com/Team-ToyoTech">Team ToyoTech</a></strong> | <strong><a href="https://github.com/2025ESC">HSSH ESC</a></strong> |
 
 [![DH.L's GitHub stats](https://github-readme-stats.vercel.app/api?username=meozigoon&show_icons=true&theme=dark)](https://github.com/meozigoon)
@@ -23,10 +23,9 @@
 
 # 💪Skills
 ## Languages
-### Primary Languages
-![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,arduino)
-### Secondary Languages
-![My Skills](https://skillicons.dev/icons?i=py,html,css,js,nodejs)
+| **Primary Languages** | ![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,arduino) |
+| :-: | :-: |
+| **Secondary Languages** | ![My Skills](https://skillicons.dev/icons?i=py,html,css,js,nodejs) |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meozigoon&layout=compact&langs_count=100&theme=dark)
 
