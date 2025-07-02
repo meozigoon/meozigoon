@@ -10,8 +10,8 @@
 
 [![DH.L's GitHub stats](https://github-readme-stats.vercel.app/api?username=meozigoon&show_icons=true&theme=dark)](https://github.com/meozigoon)
 </br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meozigoon)](https://solved.ac/meozigoon/)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=meozigoon&theme=dark)](https://solved.ac/meozigoon/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meozigoon)](https://solved.ac/profile/meozigoon)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=meozigoon&theme=dark)](https://solved.ac/profile/meozigoon)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=meozigoon&utm_content=farm">
 <img
