@@ -1,6 +1,6 @@
 <div align="center">
   
-# ⚜️ DH.L ⚜️
+# DH.L
 
 <strong><a href="https://meozigoon.github.io" target="_blank">meozigoon.github.io</a></strong>
 
