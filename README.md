@@ -14,14 +14,14 @@
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=meozigoon&theme=dark)](https://solved.ac/profile/meozigoon)
 
 # 💪Skills
-## Languages
+### Languages
 | **Primary Languages** | ![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,arduino) |
 | :-: | :-: |
 | **Secondary Languages** | ![My Skills](https://skillicons.dev/icons?i=py,html,css,js) |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meozigoon&layout=compact&langs_count=100&theme=dark)
 
-## Tools
+### Tools
 ![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,arduino,dotnet,cmake,firebase,notion,clion,pycharm,cloudflare)
 
 # :mailbox_with_mail: Contacts
