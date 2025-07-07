@@ -13,14 +13,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meozigoon)](https://solved.ac/profile/meozigoon)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=meozigoon&theme=dark)](https://solved.ac/profile/meozigoon)
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=meozigoon&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/meozigoon"
-  width="600"
-  height="200"
-/>
-</a>
-
 # 💪Skills
 ## Languages
 | **Primary Languages** | ![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,arduino) |
