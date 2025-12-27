@@ -8,8 +8,8 @@
 |:-:|:-:|
 | <strong><a href="https://github.com/Team-ToyoTech">Team ToyoTech</a></strong> | <strong><a href="https://github.com/2025ESC">HSSH ESC</a></strong> |
 
-[![DH.L's GitHub stats](https://github-readme-stats.vercel.app/api?username=meozigoon&show_icons=true&theme=dark)](https://github.com/meozigoon)
 </br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meozigoon)](https://solved.ac/profile/meozigoon)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=meozigoon&theme=dark)](https://solved.ac/profile/meozigoon)
 
@@ -19,10 +19,8 @@
 | :-: | :-: |
 | **Secondary Languages** | ![My Skills](https://skillicons.dev/icons?i=py,html,css,js) |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meozigoon&layout=compact&langs_count=50&theme=dark)
-
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,arduino,dotnet,cmake,firebase,notion,nodejs,clion,pycharm,cloudflare)
+![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,arduino,dotnet,cmake,firebase,notion,nodejs,clion,pycharm,cloudflare,linux)
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:meozigoon@gmail.com)
