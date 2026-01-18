@@ -4,7 +4,7 @@
 
 <strong><a href="https://meozigoon.github.io" target="_blank">meozigoon.github.io</a></strong>
 
-| <a href="https://github.com/Team-ToyoTech"><img src="https://github.com/user-attachments/assets/92e0625e-74b9-4a43-8d62-697433a6326c" width=100 height=100></a> | <a href="https://github.com/2025ESC"><img src="https://github.com/user-attachments/assets/73899e67-ff05-41ff-a665-e7b945351403" width=100 height=100></a> |
+| <a href="https://github.com/Team-ToyoTech"><img src="https://github.com/user-attachments/assets/92e0625e-74b9-4a43-8d62-697433a6326c" width=100 height=100></a> | <a href="https://github.com/HSSHESC"><img src="https://github.com/user-attachments/assets/73899e67-ff05-41ff-a665-e7b945351403" width=100 height=100></a> |
 |:-:|:-:|
 | <strong><a href="https://github.com/Team-ToyoTech">Team ToyoTech</a></strong> | <strong><a href="https://github.com/HSSHESC">HSSH ESC</a></strong> |
 
