@@ -15,9 +15,9 @@
 
 # 💪Skills
 ### Languages
-| **Primary Languages** | ![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,arduino) |
+| **Primary Languages** | ![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,py) |
 | :-: | :-: |
-| **Secondary Languages** | ![My Skills](https://skillicons.dev/icons?i=py,html,css,js) |
+| **Secondary Languages** | ![My Skills](https://skillicons.dev/icons?i=arduino,html,css,js) |
 
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,arduino,dotnet,cmake,firebase,notion,nodejs,clion,pycharm,cloudflare,linux)
