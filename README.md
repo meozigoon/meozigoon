@@ -11,7 +11,6 @@
 </br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meozigoon)](https://solved.ac/profile/meozigoon)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=meozigoon&theme=dark)](https://solved.ac/profile/meozigoon)
 
 # 💪Skills
 ### Languages
